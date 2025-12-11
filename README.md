@@ -1,98 +1,121 @@
-<!-- ![Islamic Insights Hub Banner](assets/banner.png) -->
 
-# 🌙 Islamic Insights Hub
 
-![License](https://img.shields.io/github/license/SyedMuhammadArsalanShah/Islamic-Insights-Hub-Application)
-![Flutter](https://img.shields.io/badge/Flutter-3.13-blue)
-![GitHub Stars](https://img.shields.io/github/stars/SyedMuhammadArsalanShah/Islamic-Insights-Hub-Application?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/SyedMuhammadArsalanShah/Islamic-Insights-Hub-Application?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/SyedMuhammadArsalanShah/Islamic-Insights-Hub-Application)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/SyedMuhammadArsalanShah/Islamic-Insights-Hub-Application)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/SyedMuhammadArsalanShah/Islamic-Insights-Hub-Application)
+# 🌙 Islamic Vision – Quran & Hadith Explorer
+
+[![Flutter](https://img.shields.io/badge/Flutter-2.10-blue?logo=flutter\&logoColor=white)](https://flutter.dev/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/SyedMuhammadArsalanShah/IslamicVision?style=social)](https://github.com/SyedMuhammadArsalanShah/IslamicVision/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/SyedMuhammadArsalanShah/IslamicVision?style=social)](https://github.com/SyedMuhammadArsalanShah/IslamicVision/network/members)
 
 ---
 
 ## 📅 Project Duration
+
 **November 2023 – December 2023**
 
 ## 🎓 Institution
-**Sheikh Zayed Islamic Center, University of Karachi**
+
+Sheikh Zayed Islamic Center, University of Karachi
+
+## 🧑‍🏫 Supervisor
+
+**Sheikh Adnan Ahmed Usmani**
 
 ---
 
 ## 🛠️ Tech Stack
-- **Framework**: Flutter (Cross-platform)
-- **Architecture**: API-based
-- **UI**: Google Fonts, Responsive Design
+
+* **Framework:** Flutter (Cross-platform)
+* **Architecture:** API-based
+* **UI/UX:** Google Fonts, Responsive & Modern Design
 
 ---
 
 ## 🌟 Core Features
 
 ### 📖 Quran Module
-- ✅ **134 Translations & Tafsirs** in 40+ languages
-- 🎧 **20 Reciters** with high-quality audio
-- 📥 **Audio Download** for offline listening
-- 🔍 **Ayah Search** (by Arabic / Translation)
-- 📌 **Highlighted Ayah** in search results
-- 🔗 **Share Ayahs** to social media or apps
-- 🔤 **Custom Fonts** using Google Fonts
+
+* 134 translations & tafsirs in 40+ languages
+* 20 high-quality reciters
+* Offline audio download
+* Ayah search (Arabic & translation) with highlights
+* Share ayahs to social media or other apps
+* Custom fonts using Google Fonts
 
 ### 📚 Hadith Module
-- 🔍 **Search by Hadith Number**
-- 🔍 **Search by Arabic Text**
-- 🔍 **Search by Urdu Translation**
-- 🔍 **Search by English Translation**
 
-#### 📘 Includes 9 Authentic Hadith Collections:
-1. **Sahih al-Bukhari**
-2. **Sahih Muslim**
-3. **Jami` at-Tirmidhi**
-4. **Sunan Abi Dawood**
-5. **Sunan Ibn Majah**
-6. **Sunan an-Nasa'i**
-7. **Mishkat al-Masabih**
-8. **Musnad Ahmad**
-9. **Al-Silsilah al-Sahihah**
+* Search by Hadith number, Arabic text, Urdu, or English
+* Includes **9 authentic Hadith collections**:
 
----
+  1. Sahih al-Bukhari
+  2. Sahih Muslim
+  3. Jami` at-Tirmidhi
+  4. Sunan Abi Dawood
+  5. Sunan Ibn Majah
+  6. Sunan an-Nasa'i
+  7. Mishkat al-Masabih
+  8. Musnad Ahmad
+  9. Al-Silsilah al-Sahihah
 
-## 🧭 Project Highlights
-- 🧠 Urdu Keyboard for seamless Quranic search
-- 🌐 Multilingual Support: Arabic, Urdu, English
-- 🎨 Responsive & Modern UI/UX Design
-- ⚙️ Optimized performance via API-based architecture
+### 🧭 Highlights
+
+* Urdu keyboard for smooth Quranic search
+* Multilingual support: Arabic, Urdu, English
+* Optimized performance via API-based architecture
+* Clean, responsive, and modern UI/UX
 
 ---
 
-## 🚀 Installation & Usage
+## 🎬 Project Demo
+
+[![Watch Demo Video](https://img.youtube.com/vi/SVu7d4OCWQM/maxresdefault.jpg)](https://youtu.be/SVu7d4OCWQM)
+
+Click the thumbnail to watch the full demo on YouTube.
+
+---
+
+## 🖼️ Screenshots / Media
+
+*(Add screenshots or GIFs of the app here for better presentation)*
+
+---
+
+## 🚀 Installation & Setup
 
 ```bash
 # Clone the repository
-git clone https://github.com/SyedMuhammadArsalanShah/Islamic-Insights-Hub-Application.git
+git clone https://github.com/SyedMuhammadArsalanShah/IslamicVision.git
 
-# Navigate to the project directory
-cd Islamic-Insights-Hub-Application
+# Navigate to project directory
+cd IslamicVision
 
 # Install dependencies
 flutter pub get
 
 # Run the app
 flutter run
-````
+```
 
 ---
 
 ## 🙏 Acknowledgments
 
-> May this effort become a **source of guidance** and **barakah** for everyone involved.
-> Feel free to contribute and help us expand the reach of authentic Islamic knowledge.
+May this project be a source of guidance and barakah. Contributions are welcome to enhance and spread authentic Islamic knowledge.
+
+**Project Developer:**
+
+* **Syed Muhammad Arsalan Shah** – Sole Developer / Researcher / Full Project Implementation
+
+**Supervisor:**
+
+* Sheikh Adnan Ahmed Usmani
 
 ---
 
 ## 📄 License
 
-© 2023 Islamic Insights Hub – All rights reserved.
+© 2023 **Islamic Vision** – All rights reserved.
 Developed under the academic supervision of Sheikh Zayed Islamic Center, University of Karachi.
 
----
+
+Do you want me to create that next?
