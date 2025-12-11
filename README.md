@@ -113,4 +113,3 @@ May this project be a source of guidance and barakah. Contributions are welcome 
 Developed under the academic supervision of Sheikh Zayed Islamic Center, University of Karachi.
 
 
-Do you want me to create that next?
