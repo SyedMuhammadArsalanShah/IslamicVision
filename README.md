@@ -68,7 +68,8 @@ Sheikh Zayed Islamic Center, University of Karachi
 
 ## 🎬 Project Demo
 
-[![Watch Demo Video](https://img.youtube.com/vi/SVu7d4OCWQM/maxresdefault.jpg)](https://youtu.be/SVu7d4OCWQM)
+[![Watch Demo Video](https://github.com/user-attachments/assets/983fd992-4d03-4a47-9e56-5b362ccd244c)](https://youtu.be/SVu7d4OCWQM)
+
 
 Click the thumbnail to watch the full demo on YouTube.
 
