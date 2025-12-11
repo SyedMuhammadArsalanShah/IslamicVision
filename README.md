@@ -74,11 +74,6 @@ Click the thumbnail to watch the full demo on YouTube.
 
 ---
 
-## 🖼️ Screenshots / Media
-
-*(Add screenshots or GIFs of the app here for better presentation)*
-
----
 
 ## 🚀 Installation & Setup
 
